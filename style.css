@@ -33,7 +33,7 @@ body {
 /* ==== Header Start ====*/
 header {
     width: 100%;
-    position: fixed
+    position: fixed;
 }
 
 .header_inner {
